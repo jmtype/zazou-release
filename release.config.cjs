@@ -9,14 +9,14 @@ module.exports = {
         "changelogFile": "docs/CHANGELOG.md"
       }
     ],
+    "@semantic-release/npm",
+    "@semantic-release/github",
     [
       "@semantic-release/git",
       {
         "assets": ["docs/CHANGELOG.md"],
         "message": "chore(release): ${nextRelease.version}"
       },
-    ],
-    "@semantic-release/github",
-    "@semantic-release/npm"
+    ]
   ]
 };
