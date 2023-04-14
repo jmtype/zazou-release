@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+node console.log("is it working?")
