@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/jmtype/zazou-release/compare/v1.1.0...v1.1.1) (2023-04-14)
+
+
+### Bug Fixes
+
+* add new subtract param ([f3f9aab](https://github.com/jmtype/zazou-release/commit/f3f9aab94b8e7b57091ed89de5e9e9002f8500bc))
+
 # [1.1.0](https://github.com/jmtype/zazou-release/compare/v1.0.4...v1.1.0) (2023-04-14)
 
 
