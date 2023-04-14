@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/jmtype/zazou-release/compare/v1.0.3...v1.0.4) (2023-04-14)
+
+
+### Bug Fixes
+
+* update divide helper ([c9764ca](https://github.com/jmtype/zazou-release/commit/c9764ca3b1796f6dee97cac3d6c5a579a199eec5))
+
 ## [1.0.3](https://github.com/jmtype/zazou-release/compare/v1.0.2...v1.0.3) (2023-04-14)
 
 
