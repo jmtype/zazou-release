@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/jmtype/zazou-release/compare/v1.0.4...v1.1.0) (2023-04-14)
+
+
+### Features
+
+* remove multiply and divide helper ([6b81ec1](https://github.com/jmtype/zazou-release/commit/6b81ec190546d0643bcea11a18c67d7595e77549))
+
 ## [1.0.4](https://github.com/jmtype/zazou-release/compare/v1.0.3...v1.0.4) (2023-04-14)
 
 
